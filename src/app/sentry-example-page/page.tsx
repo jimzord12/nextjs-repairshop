@@ -4,7 +4,7 @@ import Head from "next/head";
 import * as Sentry from "@sentry/nextjs";
 
 export default function Page() {
-  throw new Error("Sentry Example Frontend Error");
+  // throw new Error("Sentry Example Frontend Error");
 
   return (
     <div>
